@@ -14,6 +14,8 @@ Keep the best questions ready for the right moment.
 
 Just open the app, pick a deck, and let the conversation take over.
 
-Privacy Policy:
-Terms & Uses: 
+Privacy Policy: https://github.com/Arnav-arw/Unfiltered/blob/main/Privacy%20Policy
+
+Terms & Uses: https://github.com/Arnav-arw/Unfiltered/blob/main/Privacy%20Policy
+
 Terms of use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
